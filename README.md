@@ -51,8 +51,27 @@ app/
 ├── res/layout/
 │ └── activity_main1.xml
 
-
 ```
 ---
+
+---
+
+## ⚙️ Requirements
+
+- Android Studio
+- OpenCV Android SDK
+- Android device or emulator
+
+---
+
+## 🔧 Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/stefano-code/LaneDetectionAppForAndroid.git
+---
+## 🚀 Getting started
+
 
 
