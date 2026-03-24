@@ -11,4 +11,5 @@ L'app legge un video locale, elabora ogni frame in tempo reale e sovrappone le l
 👉 Inserisci qui il tuo video registrato da Android Studio:
 
 ```markdown
-https://github.com/<TUO_USERNAME>/<TUO_REPO>/assets/<VIDEO_FILE>
+https://github.com/user-attachments/assets/6ab0b357-1ab9-4c7f-9a8b-8e7afc805e68
+
