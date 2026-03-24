@@ -1,15 +1,12 @@
 # 🚗 Android Lane Detection (OpenCV)
 
-Demo application Android per il rilevamento delle corsie stradali (Lane Detection) utilizzando **OpenCV**.
+An Android demo application for real-time **lane detection** using **OpenCV**.
 
-L'app legge un video locale, elabora ogni frame in tempo reale e sovrappone le linee rilevate (corsie) sull'immagine.
+The app processes a pre-recorded video frame-by-frame and overlays detected lane lines on top of the original frames.
 
 ---
 
-## 📱 Demo
-
-👉 Inserisci qui il tuo video registrato da Android Studio:
-
-```markdown
-https://github.com/user-attachments/assets/6ab0b357-1ab9-4c7f-9a8b-8e7afc805e68
+## 📸 Screenshot
+<img width="360" height="780" alt="Screenshot_20260324_201648" src="https://github.com/user-attachments/assets/e8662de3-c4f3-4005-9895-14a28992e311" />
+---
 
